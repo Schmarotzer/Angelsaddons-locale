@@ -1,0 +1,2 @@
+# Angelsaddons-locale
+[![GitHub issues](https://img.shields.io/github/issues/GimoXagros/Angelsaddons-locale.svg)](https://github.com/GimoXagros/aai-locales/issues) [![CrowdIn](https://img.shields.io/badge/localized-Progressing-green.svg)](https://crowdin.com/project/angelsaddons-newlocales) [![GitHub license](https://img.shields.io/github/license/GimoXagros/Angelsaddons-locale.svg)](https://github.com/GimoXagros/Angelsaddons-locale/blob/master/LICENSE)
