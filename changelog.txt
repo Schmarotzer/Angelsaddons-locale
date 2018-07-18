@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.45
+Date: 2018-07-18
+  Changes:
+    - Updated 中文 - 繁體字 (by Gallons)
+    - Updated 한국어
+    - Updated Deutsch (by lennardjones, blackerking & Jonas Siewert)
+		- Updated Polski (by Kamil Czesak & Igor Frelikowski)
+---------------------------------------------------------------------------------------------------
 Version: 0.1.44
 Date: 2018-06-19
   Changes:

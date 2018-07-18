@@ -25,12 +25,14 @@ Polski
 中文 - 繁體字(繁体字)
 -----
 ##Big thanks
-aspd199(中文 - 简体字)
-Gallons(中文 - 繁體字)
-Shirutan(日本語)
+aspd199 (中文 - 简体字)
+Gallons (中文 - 繁體字)
+Shirutan (日本語)
 ToxaSTN (русском)
+lennardjones (Deutsch)
+Kamil Czesak (Polski)
 
-diraria (русском), Dmitry Murzin (русском)
+diraria (русском), Dmitry Murzin (русском), blackerking (Deutsch), Jonas Siewert (Deutsch), Igor Frelikowski (Polski)
 sore68, Damgam, dima74, Karosieben, IamIpanda, Firerazer, destunt
 Choi, 둥둥, Jung, River Sand, Lee, Kim, Beak, 안롤드로이드
 -----
