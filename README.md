@@ -1,6 +1,7 @@
 [Angels addons - locales](https://crowdin.com/project/angelsaddons-newlocales)
 =====
 #Adds translations for Angel's mods.
+
 [![GitHub issues](https://img.shields.io/github/issues/GimoXagros/Angelsaddons-locale.svg)](https://github.com/GimoXagros/Angelsaddons-locale/issues) [![CrowdIn](https://img.shields.io/badge/localized-Progressing-green.svg)](https://crowdin.com/project/angelsaddons-newlocales) [![GitHub license](https://img.shields.io/github/license/GimoXagros/Angelsaddons-locale.svg)](https://github.com/GimoXagros/Angelsaddons-locale/blob/master/LICENSE)
 -----
 I have licensed this mode from a previous author.
