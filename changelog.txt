@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.47
+Date: 2018-12-11
+  Changes:
+    - Updated Deutsch (by Oliver Stotzem, Karosieben)
+    - Updated le français
+    - Updated 日本語 (by Shirutan)
+    - Updated 한국어
+    - Updated Polski
+    - Updated русском (by Anton Klimovich, Dmitry Korotkov, diraria)
+    - Updated 中文 - 简体字(簡體字)
+		- Updated 中文 - 繁體字(繁体字) (by Gallons)
+---------------------------------------------------------------------------------------------------
 Version: 0.1.46
 Date: 2018-07-19
   Changes:
