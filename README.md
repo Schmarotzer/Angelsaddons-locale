@@ -16,8 +16,9 @@ Thank you for downloaded this mod.
 https://mods.factorio.com/ 이외의 사이트 배포는 불허합니다. 공유가 필요 할 시 사이트 링크로 대체해주세요.
 *****
 ##Translations list
-Deutsch(76%)
+Deutsch(79%)
 le français(82%)
+Español(6%)
 日本語(89%)
 한국어(100%)
 Polski(92%)
@@ -32,10 +33,12 @@ lennardjones, blackerking, Jonas Siewert, Oliver Stotzem, Karosieben (Deutsch)
 Firerazer (le français)
 Shirutan (日本語)
 sore68, Choi, 둥둥, Jung, River Sand, Lee, Kim, Beak, 안롤드로이드 (한국어)
-Damgam, Kamil Czesak, Igor Frelikowski (Polski)
+Damgam, Kamil Czesak, Igor Frelikowski, Cylindryk Cylindrykowy (Polski)
 Anton Klimovich, dima74, destunt, diraria, Dmitry Murzin, Dmitry Korotkov, bmidik25 (русском)
 aspd199 (中文 - 简体字)
 IamIpanda, Gallons (中文 - 繁體字)
+OZMQ (Español)
+Junior Lopes (Português, brasileiro)
 
 -----
 
