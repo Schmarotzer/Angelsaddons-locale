@@ -16,7 +16,7 @@ Thank you for downloaded this mod.
 https://mods.factorio.com/ 이외의 사이트 배포는 불허합니다. 공유가 필요 할 시 사이트 링크로 대체해주세요.
 *****
 ##Translations list
-Deutsch(79%)
+Deutsch(90%)
 le français(82%)
 Español(6%)
 日本語(89%)
