@@ -1,12 +1,13 @@
 {
   "name": "angelsaddons-newlocales",
-  "version": "0.1.50",
-  "factorio_version": "0.16",
+  "version": "0.2.0",
+  "factorio_version": "0.17",
   "title": "Angel's Addons - Locales",
   "author": "Team.XMGTP(Factorio community)",
   "homepage": "https://crowdin.com/project/angelsaddons-newlocales",
   "description": "Adds translations for Angel's mods from the Community.",
   "dependencies": [
+		"? angelsaddons-cab",
 		"? angelsaddons-nilaus",
 		"? angelsaddons-oresilos",
 		"? angelsaddons-petrotrain",
