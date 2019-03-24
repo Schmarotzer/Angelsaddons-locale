@@ -16,15 +16,15 @@ Thank you for downloaded this mod.
 https://mods.factorio.com/ 이외의 사이트 배포는 불허합니다. 공유가 필요 할 시 사이트 링크로 대체해주세요.
 *****
 ##Translations list
-Deutsch(91%)
-le français(82%)
-Español(6%)
-日本語(89%)
+Deutsch(86%)
+le français(77%)
+Español(5%)
+日本語(84%)
 한국어(100%)
-Polski(95%)
+Polski(87%)
 русском(94%)
-中文 - 简体字(簡體字)(87%)
-中文 - 繁體字(繁体字)(100%)
+中文 - 简体字(簡體字)(82%)
+中文 - 繁體字(繁体字)(94%)
 
 -----
 
